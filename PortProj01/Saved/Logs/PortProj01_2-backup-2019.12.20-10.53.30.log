@@ -1,0 +1,1160 @@
+﻿Log file open, 12/20/19 04:52:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PortProj01
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.546457
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GameAnalytics
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  /Game/Maps/MainMenu -game -PIEVIACONSOLE -ResX=1280 -ResY=720 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Engine.ini]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.12.20-10.52.39:054][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Engine.ini]
+[2019.12.20-10.52.39:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Engine.ini]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Engine.ini]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.20-10.52.39:055][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.20-10.52.39:056][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.20-10.52.39:056][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.20-10.52.39:056][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.20-10.52.39:056][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.20-10.52.39:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Engine.ini]
+[2019.12.20-10.52.39:056][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Engine.ini]
+[2019.12.20-10.52.39:060][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:060][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.20-10.52.39:061][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.20-10.52.39:062][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.20-10.52.39:062][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:062][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.20-10.52.39:062][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.20-10.52.39:062][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.20-10.52.39:062][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.20-10.52.39:066][  0]LogHAL: Display: Platform has ~ 32 GB [34308018176 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.20-10.52.39:066][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.20-10.52.39:066][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.20-10.52.39:066][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:066][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.20-10.52.39:066][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.20-10.52.39:066][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:066][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.20-10.52.39:066][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:066][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.20-10.52.39:066][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.20-10.52.39:066][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Scalability.ini]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.20-10.52.39:067][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.20-10.52.39:068][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.20-10.52.39:068][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.20-10.52.39:068][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Frank/Documents/Unreal Projects/PortProj01/Saved/Config/Windows/Engine.ini]
+[2019.12.20-10.52.39:068][  0]LogInit: Computer: DESKTOP-FBSB1IR
+[2019.12.20-10.52.39:068][  0]LogInit: User: Frank
+[2019.12.20-10.52.39:068][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.12.20-10.52.39:068][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.20-10.52.39:068][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.12.20-10.52.39:068][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.20-10.52.39:068][  0]LogMemory: Process Physical Memory: 98.78 MB used, 98.78 MB peak
+[2019.12.20-10.52.39:068][  0]LogMemory: Process Virtual Memory: 94.51 MB used, 94.51 MB peak
+[2019.12.20-10.52.39:068][  0]LogMemory: Physical Memory: 8137.72 MB used,  24580.96 MB free, 32718.68 MB total
+[2019.12.20-10.52.39:068][  0]LogMemory: Virtual Memory: 4680.80 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.12.20-10.52.39:092][  0]LogInit: Using OS detected language (en-US).
+[2019.12.20-10.52.39:092][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.20-10.52.39:093][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.20-10.52.39:269][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.20-10.52.39:269][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.20-10.52.39:291][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.20-10.52.39:291][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.20-10.52.39:364][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2019.12.20-10.52.39:364][  0]LogD3D11RHI:       6097/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.20-10.52.39:367][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.20-10.52.39:367][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.20-10.52.39:367][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.20-10.52.39:378][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.20-10.52.39:378][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.20-10.52.39:378][  0]LogWindows: EnumDisplayDevices:
+[2019.12.20-10.52.39:378][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2019.12.20-10.52.39:378][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2019.12.20-10.52.39:379][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.12.20-10.52.39:379][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.12.20-10.52.39:379][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.20-10.52.39:379][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2019.12.20-10.52.39:379][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2019.12.20-10.52.39:379][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2019.12.20-10.52.39:379][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2019.12.20-10.52.39:434][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.20-10.52.39:444][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.20-10.52.39:444][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.20-10.52.39:444][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.20-10.52.39:452][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.20-10.52.39:737][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.20-10.52.39:753][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.20-10.52.39:768][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.20-10.52.39:776][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.20-10.52.39:776][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.20-10.52.39:785][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.20-10.52.39:834][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Frank/Documents/Unreal Projects/PortProj01/Intermediate/Shaders/WorkingDirectory/10924/).
+[2019.12.20-10.52.39:834][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Frank/AppData/Local/Temp/UnrealShaderWorkingDir/B5DF539A42489EF2634135930E473F8A/'.
+[2019.12.20-10.52.39:836][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.20-10.52.39:836][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.20-10.52.39:836][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.20-10.52.40:350][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.20-10.52.40:389][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Frank/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.20-10.52.40:389][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Frank/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.20-10.52.40:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Frank/Documents/Unreal Projects/PortProj01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.20-10.52.40:390][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.20-10.52.40:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Frank/Documents/Unreal Projects/PortProj01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.20-10.52.40:390][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.20-10.52.40:402][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.20-10.52.40:402][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.20-10.52.40:402][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.20-10.52.40:414][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Frank/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.20-10.52.40:414][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.20-10.52.40:414][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.20-10.52.40:435][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.20-10.52.40:436][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.20-10.52.40:437][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.20-10.52.40:537][  0]LogInit: Using OS detected language (en-US).
+[2019.12.20-10.52.40:537][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.20-10.52.40:537][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.12.20-10.52.40:537][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2019.12.20-10.52.40:537][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.12.20-10.52.40:537][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.12.20-10.52.40:538][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2019.12.20-10.52.40:546][  0]LogAssetRegistry: FAssetRegistry took 0.0050 seconds to start up
+[2019.12.20-10.52.40:733][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.000643 seconds
+[2019.12.20-10.52.40:881][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.20-10.52.40:936][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.20-10.52.40:936][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.20-10.52.40:936][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.20-10.52.40:936][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.20-10.52.40:936][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.20-10.52.41:010][  0]LogNetVersion: PortProj01 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2061816540)
+[2019.12.20-10.52.41:467][  0]LogMoviePlayer: Initializing movie player
+[2019.12.20-10.52.41:574][  0]LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics Constructor
+[2019.12.20-10.52.41:581][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2019.12.20-10.52.41:584][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.20-10.52.41:596][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.20-10.52.41:680][  0]SourceControl: Source control is disabled
+[2019.12.20-10.52.41:680][  0]SourceControl: Source control is disabled
+[2019.12.20-10.52.41:681][  0]SourceControl: Source control is disabled
+[2019.12.20-10.52.41:724][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.20-10.52.41:827][  0]LogOcInput: OculusInput pre-init called
+[2019.12.20-10.52.41:837][  0]LogUObjectArray: 46800 objects as part of root set at end of initial load.
+[2019.12.20-10.52.41:837][  0]LogUObjectAllocator: 8217464 out of 0 bytes used by permanent object pool.
+[2019.12.20-10.52.41:837][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.20-10.52.41:968][  0]LogEngine: Initializing Engine...
+[2019.12.20-10.52.41:969][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.20-10.52.41:981][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.20-10.52.42:128][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.20-10.52.42:157][  0]LogInit: XAudio2 using 'Headset Earphone (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.20-10.52.42:192][  0]LogInit: FAudioDevice initialized.
+[2019.12.20-10.52.42:204][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.20-10.52.42:206][  0]LogInit: Texture streaming: Enabled
+[2019.12.20-10.52.42:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-10.52.42:453][  0]LogInit: Display: Game Engine Initialized.
+[2019.12.20-10.52.42:503][  0]LogInit: Display: Starting Game.
+[2019.12.20-10.52.42:503][  0]LogNet: Browse: /Game/Maps/MainMenu?Name=Player
+[2019.12.20-10.52.42:503][  0]LogLoad: LoadMap: /Game/Maps/MainMenu?Name=Player
+[2019.12.20-10.52.42:540][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.20-10.52.42:556][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.20-10.52.42:557][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2019.12.20-10.52.42:557][  0]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2019.12.20-10.52.42:557][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2019.12.20-10.52.42:557][  0]LogUObjectGlobals: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode'
+[2019.12.20-10.52.42:557][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C'
+[2019.12.20-10.52.42:557][  0]LogLoad: Game class is 'GameModeBase'
+[2019.12.20-10.52.42:558][  0]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.12.20-04.52.42
+[2019.12.20-10.52.42:558][  0]LogWorld: Bringing up level for play took: 0.000335
+[2019.12.20-10.52.42:558][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.20-10.52.42:563][  0]LogLoad: Took 0.060178 seconds to LoadMap(/Game/Maps/MainMenu)
+[2019.12.20-10.52.42:614][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.20-10.52.42:614][  0]LogLoad: (Engine Initialization) Total time: 5.71 seconds
+[2019.12.20-10.52.42:614][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.20-10.52.42:635][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.20-10.52.45:499][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-10.52.45:583][182]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.20-10.52.50:517][488]LogInit: WinSock: I am DESKTOP-FBSB1IR (192.168.1.4:0)
+[2019.12.20-10.52.50:613][488]LogPackageName: SearchForPackageOnDisk took   0.094s to resolve Lobby.umap.
+[2019.12.20-10.52.50:708][488]LogPackageName: SearchForPackageOnDisk took   0.095s to resolve Lobby.umap.
+[2019.12.20-10.52.50:708][488]LogNet: Browse: /Game/Maps/Lobby?Listen
+[2019.12.20-10.52.50:708][488]LogLoad: LoadMap: /Game/Maps/Lobby?Listen
+[2019.12.20-10.52.50:744][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.20-10.52.51:629][488]LogAIModule: Creating AISystem for world Lobby
+[2019.12.20-10.52.51:629][488]LogLoad: Game class is 'LobbyGM_C'
+[2019.12.20-10.52.51:629][488]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.20-10.52.51:631][488]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.12.20-10.52.51:631][488]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.20-10.52.51:631][488]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.12.20-10.52.51:631][488]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.12.20-10.52.51:631][488]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.12.20-10.52.51:632][488]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.20-10.52.51:632][488]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2019.12.20-10.52.51:633][488]LogWorld: Bringing World /Game/Maps/Lobby.Lobby up for play (max tick rate 0) at 2019.12.20-04.52.51
+[2019.12.20-10.52.51:633][488]LogWorld: Bringing up level for play took: 0.001243
+[2019.12.20-10.52.51:645][488]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:645][488]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:648][488]LogBlueprintUserMessages: [CharBase_C_0] 48.0
+[2019.12.20-10.52.51:653][488]LogLoad: Took 0.944438 seconds to LoadMap(/Game/Maps/Lobby)
+[2019.12.20-10.52.51:655][488]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:655][488]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:669][489]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:669][489]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:685][490]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:685][490]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:701][491]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:701][491]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:717][492]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:717][492]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:733][493]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:734][493]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:750][494]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:750][494]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:767][495]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:767][495]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:783][496]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:783][496]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:799][497]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:799][497]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:815][498]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:815][498]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:831][499]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:831][499]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:847][500]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:847][500]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:863][501]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:863][501]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:880][502]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:880][502]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.51:896][503]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsChar_Base
+	UE4ASP_HeroTPP_AnimBlueprint_C /Game/Maps/Lobby.Lobby:PersistentLevel.CharBase_C_0.Mesh2P.UE4ASP_HeroTPP_AnimBlueprint_C_0
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint:04E7
+[2019.12.20-10.52.51:896][503]LogScript: Warning: Script call stack:
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Animation/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+
+[2019.12.20-10.52.53:993][633]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:186][645]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:202][646]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:218][647]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:235][648]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:250][649]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:266][650]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:283][651]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:299][652]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:315][653]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:331][654]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:347][655]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:363][656]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:379][657]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:396][658]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:412][659]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:428][660]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:444][661]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:460][662]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:476][663]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:492][664]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:508][665]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:524][666]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:540][667]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:557][668]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:573][669]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:589][670]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:605][671]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:621][672]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:637][673]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:653][674]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:669][675]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:685][676]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:686][676]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:702][677]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:718][678]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:734][679]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:750][680]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:766][681]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:782][682]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:799][683]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:815][684]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:831][685]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:847][686]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:863][687]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:879][688]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:879][688]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:895][689]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:895][689]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:911][690]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:912][690]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:928][691]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:928][691]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:945][692]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:945][692]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:961][693]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:961][693]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:977][694]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:977][694]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:993][695]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.54:993][695]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:009][696]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:009][696]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:025][697]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:025][697]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:041][698]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:042][698]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:058][699]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:058][699]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:074][700]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:074][700]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:090][701]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:090][701]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:106][702]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:106][702]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:122][703]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:122][703]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:138][704]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:138][704]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:154][705]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:154][705]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:170][706]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:170][706]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:186][707]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:186][707]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:202][708]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:202][708]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:218][709]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:218][709]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:235][710]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:235][710]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:251][711]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:251][711]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:267][712]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:267][712]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:283][713]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:283][713]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:299][714]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:299][714]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:315][715]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:315][715]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:331][716]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:331][716]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:347][717]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:347][717]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:363][718]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:364][718]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:380][719]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:380][719]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:396][720]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:396][720]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:412][721]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:412][721]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:428][722]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:428][722]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:444][723]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:444][723]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:460][724]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:460][724]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:476][725]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:476][725]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:492][726]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:492][726]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:508][727]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:508][727]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:525][728]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:525][728]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:541][729]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:541][729]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:557][730]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:557][730]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:573][731]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:573][731]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:590][732]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:590][732]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:605][733]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:606][733]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:622][734]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:622][734]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:638][735]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:638][735]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:654][736]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:654][736]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:670][737]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:670][737]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:686][738]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:686][738]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:702][739]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:702][739]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:718][740]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:718][740]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:734][741]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:735][741]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:750][742]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:750][742]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:766][743]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:766][743]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:782][744]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:782][744]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:798][745]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:798][745]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:815][746]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:815][746]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:831][747]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:831][747]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.BlockingVolume2 : BrushComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:831][747]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:831][747]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:847][748]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:863][749]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:879][750]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:895][751]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:911][752]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:927][753]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:943][754]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:960][755]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:976][756]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.55:992][757]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:008][758]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:024][759]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:040][760]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:057][761]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:073][762]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:089][763]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:106][764]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:122][765]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:138][766]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:154][767]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:170][768]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:186][769]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:202][770]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:219][771]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:235][772]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:251][773]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:267][774]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:283][775]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:299][776]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:315][777]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:331][778]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:347][779]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:363][780]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:380][781]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:396][782]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:412][783]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:428][784]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:444][785]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:460][786]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:476][787]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:492][788]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:508][789]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:509][789]PIE: Warning: FirstPersonProjectile_C_0.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:509][789]PIE: Warning: FirstPersonProjectile_C_1.CollisionComponent has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:509][789]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:525][790]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:541][791]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:557][792]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:573][793]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:589][794]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:605][795]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:621][796]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:637][797]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:653][798]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:670][799]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:686][800]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:702][801]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:718][802]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:734][803]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:750][804]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:766][805]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:782][806]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:799][807]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:815][808]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:831][809]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:847][810]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:863][811]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:879][812]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:895][813]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:912][814]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:928][815]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:944][816]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:960][817]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:976][818]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.56:992][819]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:008][820]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:025][821]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:041][822]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:057][823]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:073][824]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:090][825]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:105][826]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:121][827]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:137][828]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:154][829]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:171][830]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:187][831]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:203][832]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:219][833]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.57:235][834]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.52.59:831][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-10.53.06:864][431]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:203][452]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:218][453]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:235][454]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:251][455]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:267][456]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:283][457]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:299][458]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:315][459]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:331][460]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:347][461]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:363][462]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:380][463]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:396][464]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:412][465]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:428][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-10.53.07:428][466]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:444][467]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:460][468]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:476][469]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:492][470]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:508][471]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:525][472]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:541][473]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:557][474]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:573][475]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:589][476]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:605][477]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:621][478]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:638][479]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:654][480]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:670][481]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:686][482]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:702][483]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:718][484]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:734][485]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:750][486]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:766][487]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:782][488]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:799][489]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:815][490]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:831][491]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:847][492]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:863][493]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:879][494]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:895][495]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:911][496]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:927][497]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:944][498]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:960][499]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:977][500]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.07:993][501]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:009][502]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:025][503]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:041][504]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:058][505]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:074][506]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:090][507]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:106][508]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:122][509]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:138][510]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:154][511]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:170][512]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:187][513]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:202][514]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:219][515]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:235][516]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:251][517]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:267][518]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:283][519]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:299][520]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:315][521]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:332][522]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:348][523]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:364][524]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:380][525]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:396][526]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:412][527]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:428][528]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:444][529]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:460][530]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:476][531]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:493][532]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:509][533]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:525][534]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:541][535]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:557][536]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:573][537]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:589][538]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:605][539]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:622][540]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:638][541]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:654][542]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:670][543]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:686][544]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:702][545]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:718][546]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:734][547]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:750][548]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:766][549]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:783][550]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:799][551]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:815][552]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:831][553]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:847][554]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:863][555]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:879][556]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:896][557]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:912][558]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:928][559]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:944][560]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:960][561]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:976][562]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.08:992][563]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:009][564]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:025][565]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:041][566]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:057][567]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:073][568]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:089][569]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:105][570]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:122][571]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:138][572]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:154][573]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:170][574]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:186][575]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:202][576]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:218][577]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:234][578]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:250][579]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:266][580]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:283][581]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:299][582]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:315][583]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:331][584]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:347][585]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:363][586]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:379][587]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:395][588]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:411][589]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:428][590]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:444][591]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:460][592]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:476][593]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:492][594]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:508][595]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:525][596]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:541][597]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:557][598]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:574][599]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:590][600]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:606][601]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:622][602]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:638][603]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:654][604]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:670][605]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:687][606]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:703][607]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:719][608]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:735][609]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.09:751][610]PIE: Warning: Mobility of /Game/Maps/Lobby.Lobby:PersistentLevel.Floor : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2019.12.20-10.53.11:428][714]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2019.12.20-10.53.11:976][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-10.53.13:455][834]LogPackageName: SearchForPackageOnDisk took   0.091s to resolve MainMenu.umap.
+[2019.12.20-10.53.13:547][834]LogPackageName: SearchForPackageOnDisk took   0.092s to resolve MainMenu.umap.
+[2019.12.20-10.53.13:548][834]LogNet: Browse: /Game/Maps/MainMenu
+[2019.12.20-10.53.13:548][834]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2019.12.20-10.53.13:548][834]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.12.20-10.53.13:548][834]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.12.20-10.53.13:548][834]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.12.20-10.53.13:549][834]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.12.20-10.53.13:603][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.20-10.53.13:611][834]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.20-10.53.13:611][834]LogLoad: Game class is 'GameModeBase'
+[2019.12.20-10.53.13:611][834]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.12.20-04.53.13
+[2019.12.20-10.53.13:612][834]LogWorld: Bringing up level for play took: 0.000264
+[2019.12.20-10.53.13:612][834]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.20-10.53.13:613][834]LogLoad: Took 0.065333 seconds to LoadMap(/Game/Maps/MainMenu)
+[2019.12.20-10.53.29:392][764]LogSlate: Window 'PortProj01 (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.12.20-10.53.29:392][764]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.20-10.53.29:396][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.20-10.53.29:396][764]LogEngine: All Windows Closed
+[2019.12.20-10.53.29:396][764]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.12.20-10.53.30:010][765]LogExit: Preparing to exit.
+[2019.12.20-10.53.30:010][765]LogMoviePlayer: Shutting down movie player
