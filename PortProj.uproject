@@ -49,6 +49,11 @@
 			"Name": "SnapSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fa834687594944f5aafe2be8b44ad3f1"
+		},
+		{
+			"Name": "Replica",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f0a686b2c60e4130aef801a05efacc6c"
 		}
 	]
 }
