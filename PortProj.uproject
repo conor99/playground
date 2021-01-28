@@ -54,6 +54,11 @@
 			"Name": "Replica",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f0a686b2c60e4130aef801a05efacc6c"
+		},
+		{
+			"Name": "ElectronicNodes",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
 		}
 	]
 }
